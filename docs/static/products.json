@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Coffee",
+    "description": "Beautiful coffee",
+    "image": "https://placehold.it/250/6190E8",
+    "price": "5.50"
+  },
+  {
+    "id": 2,
+    "title": "Tea",
+    "description": "Lovely Tea",
+    "image": "https://placehold.it/250/13CE66",
+    "price": "10.00"
+  },
+  {
+    "id": 3,
+    "title": "Aubergine",
+    "description": "A single aubergine",
+    "image": "https://placehold.it/250/FF4949",
+    "price": "0.5"
+  },
+  {
+    "id": 4,
+    "title": "Banana",
+    "description": "A lovely yellow banana",
+    "image": "https://placehold.it/250/FFC82C",
+    "price": "1.0"
+  },
+  {
+    "id": 5,
+    "title": "Toothpaste",
+    "description": "To brush your teeth",
+    "image": "https://placehold.it/250/2C405A",
+    "price": "2.5"
+  }
+]
